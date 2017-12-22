@@ -1,9 +1,8 @@
 version: 0.0
 os: linux
 files:
-  - source: /welcome.html
+  - source: /
     destination: /var/www/html/
-  - source: /index.html
-    destination: /var/www/html/
+
 
 
