@@ -3,7 +3,7 @@ os: linux
 files:
   - source: /welcome.html
     destination: /var/www/html/
-    - source: /index.html
+  - source: /index.html
     destination: /var/www/html/
 
 
